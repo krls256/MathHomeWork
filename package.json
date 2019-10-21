@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codeExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karlovskyi Volodimyr",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
